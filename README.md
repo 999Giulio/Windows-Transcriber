@@ -119,6 +119,3 @@ This is a personal learning project and prototype. Its transcription timing and 
 
 Audio is captured from the selected Windows output and processed by the local Faster-Whisper model. The script does not include code to upload recorded audio to a remote transcription service. The model files are downloaded separately on first use.
 
-## License
-
-No license is currently included. Add a license file before inviting others to reuse or redistribute the code.
